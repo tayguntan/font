@@ -2,7 +2,7 @@
 
 This is a mixed weight Sans Serif font for Old Turkic. The forms of the glyphs are based of Irk Bitig, and there are no differences between Orkhun or Yenisei forms of the letters.
 
-https://github.com/tayguntan/font/blob/main/Screenshot.png
+![Image Screenshot](https://github.com/tayguntan/font/blob/main/Screenshot.png)
 
 
 
